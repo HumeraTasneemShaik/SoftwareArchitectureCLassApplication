@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DotNetAutomationBinding;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World! HI ");
 
 
 Session theSession = Session.GetSession;
